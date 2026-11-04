@@ -25,7 +25,6 @@
 ![MySQL](https://shields.io)
 ![SQL Server](https://shields.io)
 ![Git](https://shields.io)
-![VS Code](https://shields.io)
 
 ### 🏆 Proyectos y Laboratorios
 
@@ -42,5 +41,5 @@ Puedes contactarme a través de:
 
 [<img src="https://shields.io" />]www.linkedin.com/in/diego-cáceres-ba7b89276
 
-[<img src="https://shields.io" />](mailto:exequielcaceres105@gmail.com)
+(correo:exequielcaceres105@gmail.com
 
