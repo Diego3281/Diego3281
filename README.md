@@ -39,7 +39,7 @@ Diseño y ejecución de consultas SQL complejas orientadas a testing de base de 
 ### Contacto:
 Puedes contactarme a través de:
 
-[<img src="https://shields.io" />]www.linkedin.com/in/diego-cáceres-ba7b89276
+www.linkedin.com/in/diego-cáceres-ba7b89276
 
-(correo:exequielcaceres105@gmail.com
+correo:exequielcaceres105@gmail.com
 
